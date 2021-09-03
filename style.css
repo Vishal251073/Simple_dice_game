@@ -50,3 +50,10 @@ footer{
 .btn:hover{
     background-color: #64f7c7;
 }
+
+
+@media (max-width: 1140px){
+    h1{
+        font-size: 5rem;
+    } 
+  }

@@ -14,7 +14,7 @@ h1{
     margin: 30px;
     text-align: center;
     font-size: 9rem;
-    color: #4ECCA3;
+    color: #53d0a7;
     text-shadow: 5px 0px #232931;
 }
 p{
@@ -32,5 +32,21 @@ footer{
     text-align: center;
     color: #EEEEEE;
     font-family: 'Indie Flower', cursive;
-    margin-top: 5%;
+    margin-top: 3%;
+}
+.btn{
+    background-color: #4ECCA3;
+    font-size: 2rem;
+    font-family: 'Lobster', cursive;
+    border-radius: 100px;
+    color: white;
+    text-align: center;
+    padding: 1%;
+    display: inline-block;
+    border: 2px solid #393E46;
+    box-shadow: 0px 2px 8px 0px black;
+}
+
+.btn:hover{
+    background-color: #64f7c7;
 }
